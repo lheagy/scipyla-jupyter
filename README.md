@@ -1,5 +1,7 @@
 # Introduction to Rich Displays and Widgets in Jupyter
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/scipyla-jupyter/master)
+
 1. IPython and Jupyter - an introduction
    1. Project Jupyter and the JupyterLab environment.
    1. Jupyter Notebooks: live computational narratives.
