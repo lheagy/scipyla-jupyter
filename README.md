@@ -13,7 +13,12 @@
 
 3. Sharing your work: Binder
    1. Binder overview (creating a basic Binder-compliant repo).
-   
+
+## Installing IPywidgets
+
+https://ipywidgets.readthedocs.io/en/latest/user_install.html
+
+
 ## Extras
 
 A1. Git: version control and introduction to collaboration on Github (1:30 h)
