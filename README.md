@@ -1,7 +1,7 @@
 # Introduction to Rich Displays and Widgets in Jupyter
 
 1. IPython and Jupyter - an introduction
-   1. Project Jupyter and the JupyterLab environment (slides and demo).
+   1. Project Jupyter and the JupyterLab environment.
    1. Jupyter Notebooks: live computational narratives.
    1. IPython: useful tips beyond plain Python.
    
