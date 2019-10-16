@@ -18,13 +18,11 @@
 
 https://ipywidgets.readthedocs.io/en/latest/user_install.html
 
-
 ## Extras
 
-A1. Git: version control and introduction to collaboration on Github (1:30 h)
-   1. A conceptual model of Git
-   1. Basic usage of Git locally
-   1. An introduction to collaboration via Github
+- widgets in action for education: https://github.com/geoscixyz/geosci-labs
+- dashboarding with voila: https://github.com/voila-dashboards/voila 
+
 
 ## Credit
 
